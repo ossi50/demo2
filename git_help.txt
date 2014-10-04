@@ -10,3 +10,7 @@
 5. VCS - Git - Push: check box "Push current branch..."
 
 6.
+
+7
+
+8
