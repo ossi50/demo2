@@ -5,4 +5,6 @@
 
 3. Git Commit
 
-3. git remote set-url origin https://github.com/ossi50/demo2.git
+4. Git-Shell: git remote set-url origin https://github.com/ossi50/demo2.git
+
+5. VCS - Git - Push: check box "Push current branch..."
