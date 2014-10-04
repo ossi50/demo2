@@ -9,4 +9,4 @@
 
 5. VCS - Git - Push: check box "Push current branch..." (erzeugt master branch)
 
-1
+12
