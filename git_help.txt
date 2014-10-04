@@ -1,0 +1,8 @@
+
+1. VCS - Import into Version Control - Create Git Repository
+
+2. Git Add Top directory
+
+3. Git Commit
+
+3. git remote set-url origin https://github.com/ossi50/demo2.git
